@@ -1,1 +1,1 @@
-Primeiro Projeto DIO. Utilizei recursos básicos do HTML, para criar um site, explicando sobre os fundamentos do mesmo, tentei utilizar a maior diversidade de tags possível, para verificar e testar as funcionalidades das mesmas.
+Primeiro Projeto DIO. Utilizei recursos básicos do HTML para criar um site, explicando sobre os fundamentos da própria linguagem de marcação. Tentei utilizar a maior diversidade de tags possível, para verificar e testar as funcionalidades das mesmas.
